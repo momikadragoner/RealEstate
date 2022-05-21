@@ -1,6 +1,6 @@
 # RealEstate
 
-#2.NET Core 3.1
+### .NET Core 3.1
 
 Install-Package Microsoft.EntityFrameworkCore -Version 5.0.13
 
@@ -12,4 +12,4 @@ Install-Package Pomelo.EntityFrameworkCore.MySql.Design -Version 1.1.2
 
 Install-Package Newtonsoft.Json -Version 13.0.1
 
-Scaffold-DbContext "Server=localhost;User=root;Password=;Database=ingatlan" "Pomelo.EntityFrameworkCore.MySql" -OutputDir Models
+Scaffold-DbContext "Server=localhost;User=root;Password=;Database=NAMEODDATABASE" "Pomelo.EntityFrameworkCore.MySql" -OutputDir Models
