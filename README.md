@@ -1,6 +1,7 @@
 # RealEstate
 
 ### .NET Core 3.1
+Input into Package Manager Console:
 
 Install-Package Microsoft.EntityFrameworkCore -Version 5.0.13
 
